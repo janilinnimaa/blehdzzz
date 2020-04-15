@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Blaardz",
+"productVersion": "0.1",
+"dataUrl": "blrz-build.data.unityweb",
+"wasmCodeUrl": "blrz-build.wasm.code.unityweb",
+"wasmFrameworkUrl": "blrz-build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
